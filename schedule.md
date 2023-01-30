@@ -7,51 +7,54 @@ show_sidebar: false
 
 # Course Schedule
 
-## Esfand 1400
+## Bahman 1401
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 1 | 23 Bahman | Introduction	| [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C1-Introduction.pdf) |
-| 2 | 25 Bahman | Semantic representation | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C2-Semantic_Representation.pdf) (Classes 2-5) |
-| 3 | 30 Bahman | Word embeddings	(Word2vec) | |
-| 4 | 2 Esfand  | Word embeddings (Evaluation, cross-lingual space, ambiguity and sense embeddings, sub-word embeddings, retrofitting, bias)	| |
-| 5 | 7 Esfand  | Language modeling	(n-gram, probability computation, feedforward NN for LM) | Deep Learning Quiz |
-| 6 | 9 Esfand  | *Pytorch tutorial*| HW#1 <br /> [[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_1.ipynb) |
-| 7 | 14 Esfand | Language modeling with RNNs	(backprop through time, text generation, perplexity) |[[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C3-RNNS_and_LMs.pdf) (classes 7-9)|
-| 8 | 16 Esfand | Vanishing gradients and fancy RNNs (LSTMs, bidirectional and stacked RNNs) ||
-| 9 | 21 Esfand | Attention mechanism (seq2seq attention, attention variants) ||
-| 10 | 23 Esfand | Transformers (self-attention, multi-head, positional encoding) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C4-Transformers_and_BERT.pdf) (Classes 10-11)|
+| 1 | 24 Bahman | Introduction	|  |
 
 
-## Farvardin 1401
+## Esfand 1401
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 11 | 15 Farvardin | More about Transformers (contextualised embeddings, MLM, and BERT, and pretrain/finetune)| |
-| 12 | 20 Farvardin | Transformers: derivatives of BERT and architecture types (subwords and tokenization, decoders, encoders, and encoder-decoders) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C5-More_About_Transformers.pdf)|
-| 13 | 22 Farvardin | *Midterm exam* ||
-| 14 | 27 Farvardin | *Pytorch tutorial* |[[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_2.ipynb) |
-| 15 | 29 Farvardin | *Pytorch tutorial* | Project Proposal <br /> [[class notebook]](https://github.com/teias-courses/nlp00/raw/gh-pages/resources/Practical_NLP_Tutorial_Session_3.ipynb) |
+| 2 | 1 Esfand | Text Classification |  |
+| 3 | 6 Esfand | Distributional Semantics and Word Vectors | |
+| 4 | 8 Esfand  | Sentence and Contextual Word Representations	| |
+| 5 | 13 Esfand  | Language Modeling and RNNs |  |
+| 6 | 15 Esfand  | Conditioned Generation | |
+| 7 | 20 Esfand | Attention | |
+| 8 | 22 Esfand | **Project Proposal** ||
 
-## Ordibehesht 1401
-
-| Session 	| Date	| Topic | Notes |
-|------|------|------|------|
-| 16 | 5 Ordibehesht | Multilingual Learning (Data balancing) | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C6-Multilingual_Learning.pdf) (classes 16 & 19)|
-| 17 | 10 Ordibehesht |  Project Proposal ||
-| 18 | 17 Ordibehesht | \*Isotropicity of Semantic Spaces (Sara Rajaee) | HW#3 <br/> [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Isotropy.pdf) |
-| 19 | 19 Ordibehesht |   HW#2 <br /> Multilingual Learning (Adapters and MAD-X, TLM, cross-lingual transfer learning, zero-shot, and active learning) ||
-| 20 | 24 Ordibehesht |  Question Answering (reading comprehension, SQuAD, LSTM-based and BERT models, BiDAF)  | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/C7-Question_Answering.pdf) |
-| 21 | 26 Ordibehesht | **Progress Report I** ||
-| 22 | 31 Ordibehesht | \* Few-shot, Zero-shot, and Prompt-based learning (Mohsen Tabasi)  | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Few-shot.pdf) |
-
-
-## Khordad 1401
+## Farvardin 1402
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 23 | 2 Khordad | \*Ethical Considerations and Bias in NLP (Mahdi Zakizadeh & Kaveh Eskanadari) |[[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Bias-Zakizadeh_Eskandari.pdf)|
-| 24 | 7 Khordad | _Skipped_ ||
-| 25 | 9 Khordad | \*Interpretability (Ali Modaressi & Hosein Mohebbi)| HW#4 <br /> [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/Interpretability.pdf)|
-| 26 | 16 Khordad | Neural Language Generation (applications, maximum likelihood training, teacher forcing, greedy and random sampling, top-k and nucleus sampling, unlikelihood training, exposure bias, evaluating NLG, bias and ethical concerns)  | [[slides]](https://github.com/teias-courses/nlp00/blob/gh-pages/slides/cs224n-2022-lecture12-generation-final.pdf) |
-| 27 | 21 Khordad | **Progress Report II** ||
+| 9 | 19 Farvardin | **Progress Report 1** ||
+| 10 | 21 Farvardin | Pre-training Methods | |
+| 11 | 26 Farvardin | Multi-task, Multi-domain, and Multi-lingual Learning | |
+| 12 | 28 Farvardin | Prompting | |
+
+## Ordibehesht 1402
+
+| Session 	| Date	| Topic | Notes |
+|------|------|------|------|
+| 13 | 4 Ordibehesht | **Midterm Exam** ||
+| 14 | 9 Ordibehesht | How to use pre-trained models | |
+| 15 | 11 Ordibehesht | Experimental Design | |
+| 16 | 16 Ordibehesht | **Progress Report 2**| |
+| 17 | 18 Ordibehesht | Interpreting and Debugging NLP Models ||
+| 18 | 23 Ordibehesht | Bias and Fairness in NLP Models | |
+| 19 | 25 Ordibehesht | Text-based QA ||
+| 20 | 30 Ordibehesht | ~~ | |
+
+
+## Khordad 1402
+
+| Session 	| Date	| Topic | Notes |
+|------|------|------|------|
+| 21 | 1 Khordad | Dialog ||
+| 22 | 6 Khordad | Modeling Long Sequences | |
+| 23 | 8 Khordad | Adversarial Methods for Text | |
+| 24 | 13 Khordad |  **Progress Report 3** ||
+
