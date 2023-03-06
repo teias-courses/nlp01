@@ -14,10 +14,10 @@ show_sidebar: false
 |------|------|------|------|
 | 1 | 1 Esfand | Introduction |  |
 | 2 | 6 Esfand | Text Classification |  |
-| 3 | 8 Esfand | Distributional Semantics and Word Vectors | |
-| 4 | 13 Esfand  | Sentence and Contextual Word Representations	| |
-| 5 | 15 Esfand  | Language Modeling and Conditioned Generation  |  |
-| 6 | 20 Esfand | Attention | |
+| 3 | 8 Esfand | Overview: Distributional Semantics, RNNs and Language Models | |
+| 4 | 13 Esfand  | _cancelled_	| |
+| 5 | 15 Esfand  | Sentence and Contextual Word Representations  |  |
+| 6 | 20 Esfand | Conditioned Generation; Attention | |
 | 7 | 22 Esfand | **Project Proposal** ||
 
 ## Farvardin 1402
