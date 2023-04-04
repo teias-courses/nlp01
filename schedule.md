@@ -15,15 +15,15 @@ show_sidebar: false
 | 1 | 1 Esfand | Introduction |  |
 | 2 | 6 Esfand | Text Classification |  |
 | 3 | 8 Esfand | Overview: Distributional Semantics, RNNs and Language Models | |
-| 4 | 13 Esfand  | _cancelled_	| |
-| 5 | 15 Esfand  | Sentence and Contextual Word Representations  |  |
-| 6 | 20 Esfand | Conditioned Generation; Attention | |
-| 7 | 22 Esfand | **Project Proposal** ||
+| 4 | 15 Esfand  | Sentence and Contextual Word Representations  |  |
+| 5 | 20 Esfand | Conditioned Generation; Attention | |
+| 6 | 22 Esfand | **Project Proposal** ||
 
 ## Farvardin 1402
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
+| 7 | 14 Farvardin | Project Discussion ||
 | 8 | 19 Farvardin | **Progress Report 1** ||
 | 9 | 21 Farvardin | Pre-training Methods | |
 | 10 | 26 Farvardin | Multi-task, Multi-domain, and Multi-lingual Learning | |
