@@ -10,6 +10,7 @@ show_sidebar: false
 message="
 ### Announcements
 * Course schedule was updated.
+* Github <a href="https://github.com/m-Tajari/Hands-on_Workshop_on_NLP" target="#">repository</a> for the PyTorch workshop.
 " 
 icon="false"
 %}
