@@ -5,6 +5,22 @@ hide_hero: true
 show_sidebar: false
 ---
 
+# Coding and Resources
+
+### Pytorch tutorials:
+* Mohammad AkbarTajari [Hands-on NLP workshop](https://github.com/m-Tajari/Hands-on_Workshop_on_NLP)<br>
+* Stanford's [introduction to Pytorch](https://cs230.stanford.edu/blog/pytorch/)
+* Deep learning with Pytorch, [a 60-min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+### NLP demos:
+* AllenNLP [demos](https://demo.allennlp.org/): [reading comprehension](https://demo.allennlp.org/reading-comprehension/bidaf-elmo), [NER](https://demo.allennlp.org/named-entity-recognition/named-entity-recognition), [sentiment analysis](https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis), [MLM](https://demo.allennlp.org/masked-lm), etc.
+* Farsi demos: [NER](https://dadmatech.ir/#/products/ner), [colloquial to formal transfer](https://dadmatech.ir/#/products/mohavere), [EL](https://dadmatech.ir/#/products/EL), [sentiment analysis](https://dadmatech.ir/#/products/Sentiment), and [sentence similarity](https://dadmatech.ir/#/products/Similarity)
+
+### Resources for Farsi:
+* A list of datasets and tools for farsi: [[nlpdataset.ir]](https://nlpdataset.ir/)
+* [DadmaTools](https://github.com/Dadmatech/DadmaTools) NLP toolkit for Farsi
+
+
 # Reading Material
 
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft)<br>
@@ -30,16 +46,5 @@ Dan Jurafsky and James H. Martin
 * The [illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * The [annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
-### Pytorch tutorials:
-* Stanford's [introduction to Pytorch](https://cs230.stanford.edu/blog/pytorch/)
-* Deep learning with Pytorch, [a 60-min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-
-### NLP demos:
-* AllenNLP [demos](https://demo.allennlp.org/): [reading comprehension](https://demo.allennlp.org/reading-comprehension/bidaf-elmo), [NER](https://demo.allennlp.org/named-entity-recognition/named-entity-recognition), [sentiment analysis](https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis), [MLM](https://demo.allennlp.org/masked-lm), etc.
-* Farsi demos: [NER](https://dadmatech.ir/#/products/ner), [colloquial to formal transfer](https://dadmatech.ir/#/products/mohavere), [EL](https://dadmatech.ir/#/products/EL), [sentiment analysis](https://dadmatech.ir/#/products/Sentiment), and [sentence similarity](https://dadmatech.ir/#/products/Similarity)
-
-### Resources for Farsi:
-* A list of datasets and tools for farsi: [[nlpdataset.ir]](https://nlpdataset.ir/)
-* [DadmaTools](https://github.com/Dadmatech/DadmaTools) NLP toolkit for Farsi
 
 
