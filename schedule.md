@@ -34,13 +34,13 @@ show_sidebar: false
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
 | 12 | 4 Ordibehesht | **Midterm Exam** ||
-| 13 | 9 Ordibehesht | How to use pre-trained models | |
-| 14 | 11 Ordibehesht | Experimental Design | |
+| 13 | 9 Ordibehesht | Experimental Design | |
+| 14 | 11 Ordibehesht | Bias and Fairness in NLP Models (Mahdi Zakizadeh) | |
 | 15 | 16 Ordibehesht | **Progress Report 2**| |
 | 16 | 18 Ordibehesht | Interpreting and Debugging NLP Models ||
-| 17 | 23 Ordibehesht | Bias and Fairness in NLP Models | |
-| 18 | 25 Ordibehesht | Text-based QA ||
-| 19 | 30 Ordibehesht | ~~ | |
+| 17 | 23 Ordibehesht | Text-based QA | |
+| 18 | 25 Ordibehesht | Text-based QA (II) ||
+| 19 | 30 Ordibehesht | How to use pre-trained models | |
 
 
 ## Khordad 1402
