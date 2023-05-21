@@ -40,15 +40,15 @@ show_sidebar: false
 | 16 | 18 Ordibehesht | Interpreting and Debugging NLP Models ||
 | 17 | 23 Ordibehesht | Text-based QA | |
 | 18 | 25 Ordibehesht | Text-based QA (II) ||
-| 19 | 30 Ordibehesht | How to use pre-trained models | |
+| 19 | 30 Ordibehesht | Human feedback integration (discussion) | |
 
 
 ## Khordad 1402
 
 | Session 	| Date	| Topic | Notes |
 |------|------|------|------|
-| 20 | 1 Khordad | Dialog ||
-| 21 | 6 Khordad | Modeling Long Sequences | |
-| 22 | 8 Khordad | Adversarial Methods for Text | |
-| 23 | 13 Khordad |  **Progress Report 3** ||
+| 20 | 1 Khordad | Reinforcement Learning from Human Feedback (RLHF; discussion) ||
+| 21 | 6 Khordad | Paper discussion 3 | |
+| 22 | 8 Khordad | Paper discussion 4 | |
+| 23 | 20 Khordad |  **Progress Report 3** ||
 
